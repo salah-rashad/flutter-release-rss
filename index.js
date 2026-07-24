@@ -14,7 +14,7 @@ async function fetchRelease(os) {
     result.push({
       item: [
         {
-          title: 'Flutter v${release["version"]} has been released',
+          title: `Flutter v${release["version"]} has been released`,
         },
         {
           link: 'https://docs.flutter.dev/release/archive?tab=${os}',
