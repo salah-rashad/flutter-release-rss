@@ -26,7 +26,7 @@ async function fetchRelease(os) {
           link: `https://docs.flutter.dev/release/release-notes/release-notes-${release["version"]}`,
         },
         {
-          description: `*Flutter \`v${release["version"]}\` has been released*\n\n\`\`\`Channel: \t${release["channel"]}Hash:\t\t${release["hash"]}\nDart SDK:\t${release["dart_sdk_version"]}\nDate:\t\t${release["release_date"]}\`\`\``,
+          description: `*Flutter \`v${release["version"]}\` has been released*\n\n\`\`\`Channel: \t${release["channel"]}\nHash:\t\t${release["hash"]}\nDart SDK:\t${release["dart_sdk_version"]}\nDate:\t\t${release["release_date"]}\`\`\``,
         },
         {
           pubDate: release["release_date"],
