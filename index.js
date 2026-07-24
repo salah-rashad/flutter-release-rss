@@ -20,7 +20,7 @@ async function fetchRelease(os) {
           link: `https://docs.flutter.dev/release/archive?tab=${os}`,
         },
         {
-          description: `Hash: ${release["hash"]}, Dart SDK Version: ${release["dart_sdk_version"]}.`,
+          description: `*Hash*: ${release["hash"]}, *Dart SDK Version*: ${release["dart_sdk_version"]}.`,
         },
         {
           pubDate: release["release_date"],
