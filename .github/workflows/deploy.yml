@@ -27,7 +27,7 @@ jobs:
           clean: false
       - run: |
           mv dist/* ./
-          git add *.xml *.html
+          git add -f *.xml *.html
       - run: |
           git config user.name "Salah Rashad"
           git config user.email "salah.r.ahmed@gmail.com"
