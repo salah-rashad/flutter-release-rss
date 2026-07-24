@@ -17,22 +17,22 @@ async function fetchRelease(os) {
   });
   const result = [];
   for (const release of releases) {
-    result.push({
-      item: [
-        {
-          title: "Release Notes",
-        },
-        {
-          link: `https://docs.flutter.dev/release/release-notes/release-notes-${release["version"]}`,
-        },
-        {
-          description: `*Flutter \`v${release["version"]}\` has been released*\n\n\`\`\`Channel: \t${release["channel"]}\nHash:\t\t${release["hash"]}\nDart SDK:\t${release["dart_sdk_version"]}\nDate:\t\t${release["release_date"]}\`\`\``,
-        },
-        {
-          pubDate: release["release_date"],
-        },
-      ],
+    const item = [];
+    if (release["version"].endsWith(".0")) {
+      item.push({
+        title: "Release Notes",
+      });
+      item.push({
+        link: `https://docs.flutter.dev/release/release-notes/release-notes-${release["version"]}`,
+      });
+    }
+    item.push({
+      description: `*Flutter \`v${release["version"]}\` has been released*\n\n\`\`\`Channel: \t${release["channel"]}\nHash:\t\t${release["hash"]}\nDart SDK:\t${release["dart_sdk_version"]}\nDate:\t\t${release["release_date"]}\`\`\``,
     });
+    item.push({
+      pubDate: release["release_date"],
+    });
+    result.push({ item });
   }
   return result;
 }
