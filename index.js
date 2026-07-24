@@ -14,13 +14,13 @@ async function fetchRelease(os) {
     result.push({
       item: [
         {
-          title: `Flutter v${release["version"]} has been released`,
+          title: 'Flutter v${release["version"]} has been released',
         },
         {
-          link: `https://docs.flutter.dev/release/archive?tab=${os}`,
+          link: 'https://docs.flutter.dev/release/archive?tab=${os}',
         },
         {
-          description: `*Hash*: ${release["hash"]}, *Dart SDK Version*: ${release["dart_sdk_version"]}.`,
+          description: `*Hash:* \`${release["hash"]}\` \n*Dart SDK Version:* \`${release["dart_sdk_version"]}\``,
         },
         {
           pubDate: release["release_date"],
