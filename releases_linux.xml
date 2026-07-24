@@ -1,741 +1,926 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Flutter releases for linux</title><link>https://docs.flutter.dev/release/release-notes</link><description></description><lastBuildDate>2026-07-24T08:00:32.716Z</lastBuildDate><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.44.8</link><description>*Flutter `v3.44.8` has been released*
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Flutter releases for linux</title><link>https://docs.flutter.dev/release/release-notes</link><description></description><lastBuildDate>2026-07-24T08:02:15.047Z</lastBuildDate><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.44.8</link><description>*Flutter `v3.44.8` has been released*
 
-```Channel: 	stableHash:		058e0af2c2b57e369d905a03ac9748b0ebf543c6
+```Channel: 	stable
+Hash:		058e0af2c2b57e369d905a03ac9748b0ebf543c6
 Dart SDK:	3.12.2
 Date:		2026-07-23T23:18:37.989044Z```</description><pubDate>2026-07-23T23:18:37.989044Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.44.7</link><description>*Flutter `v3.44.7` has been released*
 
-```Channel: 	stableHash:		84fc5cbb223bc12f83d65b647ff8a56caf779ffd
+```Channel: 	stable
+Hash:		84fc5cbb223bc12f83d65b647ff8a56caf779ffd
 Dart SDK:	3.12.2
 Date:		2026-07-20T18:06:40.613912Z```</description><pubDate>2026-07-20T18:06:40.613912Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.44.6</link><description>*Flutter `v3.44.6` has been released*
 
-```Channel: 	stableHash:		ee80f08bbf97172ec030b8751ceab557177a34a6
+```Channel: 	stable
+Hash:		ee80f08bbf97172ec030b8751ceab557177a34a6
 Dart SDK:	3.12.2
 Date:		2026-07-09T18:35:32.476978Z```</description><pubDate>2026-07-09T18:35:32.476978Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.44.5</link><description>*Flutter `v3.44.5` has been released*
 
-```Channel: 	stableHash:		f94f4fc76b4d74543ed9b085bbd75341ef65de22
+```Channel: 	stable
+Hash:		f94f4fc76b4d74543ed9b085bbd75341ef65de22
 Dart SDK:	3.12.2
 Date:		2026-07-06T22:18:47.526282Z```</description><pubDate>2026-07-06T22:18:47.526282Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.44.4</link><description>*Flutter `v3.44.4` has been released*
 
-```Channel: 	stableHash:		ad70ec4617166f1c38e5d2bfd388af71fda14f06
+```Channel: 	stable
+Hash:		ad70ec4617166f1c38e5d2bfd388af71fda14f06
 Dart SDK:	3.12.2
 Date:		2026-06-24T23:47:08.450467Z```</description><pubDate>2026-06-24T23:47:08.450467Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.44.3</link><description>*Flutter `v3.44.3` has been released*
 
-```Channel: 	stableHash:		e1fd963c6f6922bd32afde2e9698a363cd0406d2
+```Channel: 	stable
+Hash:		e1fd963c6f6922bd32afde2e9698a363cd0406d2
 Dart SDK:	3.12.2
 Date:		2026-06-22T17:20:53.950959Z```</description><pubDate>2026-06-22T17:20:53.950959Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.44.2</link><description>*Flutter `v3.44.2` has been released*
 
-```Channel: 	stableHash:		c9a6c484230f8b5e408ec57be1ef71dee1e77020
+```Channel: 	stable
+Hash:		c9a6c484230f8b5e408ec57be1ef71dee1e77020
 Dart SDK:	3.12.2
 Date:		2026-06-11T20:54:45.204722Z```</description><pubDate>2026-06-11T20:54:45.204722Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.44.1</link><description>*Flutter `v3.44.1` has been released*
 
-```Channel: 	stableHash:		924134a44c189315be2148659913dda1671cbe99
+```Channel: 	stable
+Hash:		924134a44c189315be2148659913dda1671cbe99
 Dart SDK:	3.12.1
 Date:		2026-06-01T16:42:01.076687Z```</description><pubDate>2026-06-01T16:42:01.076687Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.44.0</link><description>*Flutter `v3.44.0` has been released*
 
-```Channel: 	stableHash:		559ffa3f75e7402d65a8def9c28389a9b2e6fe42
+```Channel: 	stable
+Hash:		559ffa3f75e7402d65a8def9c28389a9b2e6fe42
 Dart SDK:	3.12.0
 Date:		2026-05-18T17:04:36.610351Z```</description><pubDate>2026-05-18T17:04:36.610351Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.41.9</link><description>*Flutter `v3.41.9` has been released*
 
-```Channel: 	stableHash:		00b0c91f06209d9e4a41f71b7a512d6eb3b9c694
+```Channel: 	stable
+Hash:		00b0c91f06209d9e4a41f71b7a512d6eb3b9c694
 Dart SDK:	3.11.5
 Date:		2026-04-30T17:19:56.166707Z```</description><pubDate>2026-04-30T17:19:56.166707Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.41.8</link><description>*Flutter `v3.41.8` has been released*
 
-```Channel: 	stableHash:		02085feb3f5d8a8156e5e28512b9d99351d510c0
+```Channel: 	stable
+Hash:		02085feb3f5d8a8156e5e28512b9d99351d510c0
 Dart SDK:	3.11.5
 Date:		2026-04-27T17:43:19.743865Z```</description><pubDate>2026-04-27T17:43:19.743865Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.41.7</link><description>*Flutter `v3.41.7` has been released*
 
-```Channel: 	stableHash:		cc0734ac716fbb8b90f3f9db8020958b1553afa7
+```Channel: 	stable
+Hash:		cc0734ac716fbb8b90f3f9db8020958b1553afa7
 Dart SDK:	3.11.5
 Date:		2026-04-16T18:41:57.771816Z```</description><pubDate>2026-04-16T18:41:57.771816Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.41.6</link><description>*Flutter `v3.41.6` has been released*
 
-```Channel: 	stableHash:		db50e20168db8fee486b9abf32fc912de3bc5b6a
+```Channel: 	stable
+Hash:		db50e20168db8fee486b9abf32fc912de3bc5b6a
 Dart SDK:	3.11.4
 Date:		2026-03-26T17:42:04.581100Z```</description><pubDate>2026-03-26T17:42:04.581100Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.41.5</link><description>*Flutter `v3.41.5` has been released*
 
-```Channel: 	stableHash:		2c9eb20739dfec95e2c74bd3dfa4601b0a8a36aa
+```Channel: 	stable
+Hash:		2c9eb20739dfec95e2c74bd3dfa4601b0a8a36aa
 Dart SDK:	3.11.3
 Date:		2026-03-18T17:27:24.489637Z```</description><pubDate>2026-03-18T17:27:24.489637Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.41.4</link><description>*Flutter `v3.41.4` has been released*
 
-```Channel: 	stableHash:		ff37bef603469fb030f2b72995ab929ccfc227f0
+```Channel: 	stable
+Hash:		ff37bef603469fb030f2b72995ab929ccfc227f0
 Dart SDK:	3.11.1
 Date:		2026-03-04T18:57:51.836088Z```</description><pubDate>2026-03-04T18:57:51.836088Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.41.3</link><description>*Flutter `v3.41.3` has been released*
 
-```Channel: 	stableHash:		48c32af0345e9ad5747f78ddce828c7f795f7159
+```Channel: 	stable
+Hash:		48c32af0345e9ad5747f78ddce828c7f795f7159
 Dart SDK:	3.11.1
 Date:		2026-03-04T00:24:21.907828Z```</description><pubDate>2026-03-04T00:24:21.907828Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.41.2</link><description>*Flutter `v3.41.2` has been released*
 
-```Channel: 	stableHash:		90673a4eef275d1a6692c26ac80d6d746d41a73a
+```Channel: 	stable
+Hash:		90673a4eef275d1a6692c26ac80d6d746d41a73a
 Dart SDK:	3.11.0
 Date:		2026-02-19T20:45:58.087262Z```</description><pubDate>2026-02-19T20:45:58.087262Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.41.1</link><description>*Flutter `v3.41.1` has been released*
 
-```Channel: 	stableHash:		582a0e7c5581dc0ca5f7bfd8662bb8db6f59d536
+```Channel: 	stable
+Hash:		582a0e7c5581dc0ca5f7bfd8662bb8db6f59d536
 Dart SDK:	3.11.0
 Date:		2026-02-13T17:03:44.729053Z```</description><pubDate>2026-02-13T17:03:44.729053Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.41.0</link><description>*Flutter `v3.41.0` has been released*
 
-```Channel: 	stableHash:		44a626f4f0027bc38a46dc68aed5964b05a83c18
+```Channel: 	stable
+Hash:		44a626f4f0027bc38a46dc68aed5964b05a83c18
 Dart SDK:	3.11.0
 Date:		2026-02-11T19:14:07.483404Z```</description><pubDate>2026-02-11T19:14:07.483404Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.38.10</link><description>*Flutter `v3.38.10` has been released*
 
-```Channel: 	stableHash:		c6f67dede3d4aa1aa7a69dd56a3494a5cde6cc80
+```Channel: 	stable
+Hash:		c6f67dede3d4aa1aa7a69dd56a3494a5cde6cc80
 Dart SDK:	3.10.9
 Date:		2026-02-11T18:30:12.192774Z```</description><pubDate>2026-02-11T18:30:12.192774Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.38.9</link><description>*Flutter `v3.38.9` has been released*
 
-```Channel: 	stableHash:		67323de285b00232883f53b84095eb72be97d35c
+```Channel: 	stable
+Hash:		67323de285b00232883f53b84095eb72be97d35c
 Dart SDK:	3.10.8
 Date:		2026-01-29T18:15:55.027812Z```</description><pubDate>2026-01-29T18:15:55.027812Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.38.8</link><description>*Flutter `v3.38.8` has been released*
 
-```Channel: 	stableHash:		bd7a4a6b5576630823ca344e3e684c53aa1a0f46
+```Channel: 	stable
+Hash:		bd7a4a6b5576630823ca344e3e684c53aa1a0f46
 Dart SDK:	3.10.7
 Date:		2026-01-27T18:13:20.052071Z```</description><pubDate>2026-01-27T18:13:20.052071Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.38.7</link><description>*Flutter `v3.38.7` has been released*
 
-```Channel: 	stableHash:		3b62efc2a3da49882f43c372e0bc53daef7295a6
+```Channel: 	stable
+Hash:		3b62efc2a3da49882f43c372e0bc53daef7295a6
 Dart SDK:	3.10.7
 Date:		2026-01-14T18:21:18.604918Z```</description><pubDate>2026-01-14T18:21:18.604918Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.38.6</link><description>*Flutter `v3.38.6` has been released*
 
-```Channel: 	stableHash:		8b872868494e429d94fa06dca855c306438b22c0
+```Channel: 	stable
+Hash:		8b872868494e429d94fa06dca855c306438b22c0
 Dart SDK:	3.10.7
 Date:		2026-01-08T23:06:55.995045Z```</description><pubDate>2026-01-08T23:06:55.995045Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.38.5</link><description>*Flutter `v3.38.5` has been released*
 
-```Channel: 	stableHash:		f6ff1529fd6d8af5f706051d9251ac9231c83407
+```Channel: 	stable
+Hash:		f6ff1529fd6d8af5f706051d9251ac9231c83407
 Dart SDK:	3.10.4
 Date:		2025-12-12T16:44:16.735512Z```</description><pubDate>2025-12-12T16:44:16.735512Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.38.4</link><description>*Flutter `v3.38.4` has been released*
 
-```Channel: 	stableHash:		66dd93f9a27ffe2a9bfc8297506ce066ff51265f
+```Channel: 	stable
+Hash:		66dd93f9a27ffe2a9bfc8297506ce066ff51265f
 Dart SDK:	3.10.3
 Date:		2025-12-04T17:37:18.498992Z```</description><pubDate>2025-12-04T17:37:18.498992Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.38.3</link><description>*Flutter `v3.38.3` has been released*
 
-```Channel: 	stableHash:		19074d12f7eaf6a8180cd4036a430c1d76de904e
+```Channel: 	stable
+Hash:		19074d12f7eaf6a8180cd4036a430c1d76de904e
 Dart SDK:	3.10.1
 Date:		2025-11-21T16:23:59.542438Z```</description><pubDate>2025-11-21T16:23:59.542438Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.38.2</link><description>*Flutter `v3.38.2` has been released*
 
-```Channel: 	stableHash:		f5a8537f90d143abd5bb2f658fa69c388da9677b
+```Channel: 	stable
+Hash:		f5a8537f90d143abd5bb2f658fa69c388da9677b
 Dart SDK:	3.10.0
 Date:		2025-11-18T22:26:54.763095Z```</description><pubDate>2025-11-18T22:26:54.763095Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.38.1</link><description>*Flutter `v3.38.1` has been released*
 
-```Channel: 	stableHash:		b45fa18946ecc2d9b4009952c636ba7e2ffbb787
+```Channel: 	stable
+Hash:		b45fa18946ecc2d9b4009952c636ba7e2ffbb787
 Dart SDK:	3.10.0
 Date:		2025-11-13T18:06:22.416761Z```</description><pubDate>2025-11-13T18:06:22.416761Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.38.0</link><description>*Flutter `v3.38.0` has been released*
 
-```Channel: 	stableHash:		a0e9b9dbf78c8a5ef39b45a7efd40ed2de19c1a7
+```Channel: 	stable
+Hash:		a0e9b9dbf78c8a5ef39b45a7efd40ed2de19c1a7
 Dart SDK:	3.10.0 (build 3.10.0-290.4.beta)
 Date:		2025-11-12T19:05:03.744383Z```</description><pubDate>2025-11-12T19:05:03.744383Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.35.7</link><description>*Flutter `v3.35.7` has been released*
 
-```Channel: 	stableHash:		adc901062556672b4138e18a4dc62a4be8f4b3c2
+```Channel: 	stable
+Hash:		adc901062556672b4138e18a4dc62a4be8f4b3c2
 Dart SDK:	3.9.2
 Date:		2025-10-23T16:06:13.644749Z```</description><pubDate>2025-10-23T16:06:13.644749Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.35.6</link><description>*Flutter `v3.35.6` has been released*
 
-```Channel: 	stableHash:		9f455d2486bcb28cad87b062475f42edc959f636
+```Channel: 	stable
+Hash:		9f455d2486bcb28cad87b062475f42edc959f636
 Dart SDK:	3.9.2
 Date:		2025-10-09T17:29:01.107513Z```</description><pubDate>2025-10-09T17:29:01.107513Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.35.5</link><description>*Flutter `v3.35.5` has been released*
 
-```Channel: 	stableHash:		ac4e799d237041cf905519190471f657b657155a
+```Channel: 	stable
+Hash:		ac4e799d237041cf905519190471f657b657155a
 Dart SDK:	3.9.2
 Date:		2025-09-29T17:07:18.478891Z```</description><pubDate>2025-09-29T17:07:18.478891Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.35.4</link><description>*Flutter `v3.35.4` has been released*
 
-```Channel: 	stableHash:		d693b4b9dbac2acd4477aea4555ca6dcbea44ba2
+```Channel: 	stable
+Hash:		d693b4b9dbac2acd4477aea4555ca6dcbea44ba2
 Dart SDK:	3.9.2
 Date:		2025-09-16T20:09:41.727296Z```</description><pubDate>2025-09-16T20:09:41.727296Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.35.3</link><description>*Flutter `v3.35.3` has been released*
 
-```Channel: 	stableHash:		a402d9a4376add5bc2d6b1e33e53edaae58c07f8
+```Channel: 	stable
+Hash:		a402d9a4376add5bc2d6b1e33e53edaae58c07f8
 Dart SDK:	3.9.2
 Date:		2025-09-04T17:23:42.405555Z```</description><pubDate>2025-09-04T17:23:42.405555Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.35.2</link><description>*Flutter `v3.35.2` has been released*
 
-```Channel: 	stableHash:		05db9689081f091050f01aed79f04dce0c750154
+```Channel: 	stable
+Hash:		05db9689081f091050f01aed79f04dce0c750154
 Dart SDK:	3.9.0
 Date:		2025-08-25T20:35:44.483061Z```</description><pubDate>2025-08-25T20:35:44.483061Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.35.1</link><description>*Flutter `v3.35.1` has been released*
 
-```Channel: 	stableHash:		20f82749394e68bcfbbeee96bad384abaae09c13
+```Channel: 	stable
+Hash:		20f82749394e68bcfbbeee96bad384abaae09c13
 Dart SDK:	3.9.0
 Date:		2025-08-14T21:48:29.032505Z```</description><pubDate>2025-08-14T21:48:29.032505Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.35.0</link><description>*Flutter `v3.35.0` has been released*
 
-```Channel: 	stableHash:		b8962555571d8c170cff8e76023ea7bf60e5ec4b
+```Channel: 	stable
+Hash:		b8962555571d8c170cff8e76023ea7bf60e5ec4b
 Dart SDK:	3.9.0
 Date:		2025-08-14T17:11:52.992216Z```</description><pubDate>2025-08-14T17:11:52.992216Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.32.8</link><description>*Flutter `v3.32.8` has been released*
 
-```Channel: 	stableHash:		edada7c56edf4a183c1735310e123c7f923584f1
+```Channel: 	stable
+Hash:		edada7c56edf4a183c1735310e123c7f923584f1
 Dart SDK:	3.8.1
 Date:		2025-07-25T17:18:14.302790Z```</description><pubDate>2025-07-25T17:18:14.302790Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.32.7</link><description>*Flutter `v3.32.7` has been released*
 
-```Channel: 	stableHash:		d7b523b356d15fb81e7d340bbe52b47f93937323
+```Channel: 	stable
+Hash:		d7b523b356d15fb81e7d340bbe52b47f93937323
 Dart SDK:	3.8.1
 Date:		2025-07-16T20:17:44.916634Z```</description><pubDate>2025-07-16T20:17:44.916634Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.32.6</link><description>*Flutter `v3.32.6` has been released*
 
-```Channel: 	stableHash:		077b4a4ce10a07b82caa6897f0c626f9c0a3ac90
+```Channel: 	stable
+Hash:		077b4a4ce10a07b82caa6897f0c626f9c0a3ac90
 Dart SDK:	3.8.1
 Date:		2025-07-09T16:57:32.212722Z```</description><pubDate>2025-07-09T16:57:32.212722Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.32.5</link><description>*Flutter `v3.32.5` has been released*
 
-```Channel: 	stableHash:		fcf2c11572af6f390246c056bc905eca609533a0
+```Channel: 	stable
+Hash:		fcf2c11572af6f390246c056bc905eca609533a0
 Dart SDK:	3.8.1
 Date:		2025-06-25T18:28:34.724785Z```</description><pubDate>2025-06-25T18:28:34.724785Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.32.4</link><description>*Flutter `v3.32.4` has been released*
 
-```Channel: 	stableHash:		6fba2447e95c451518584c35e25f5433f14d888c
+```Channel: 	stable
+Hash:		6fba2447e95c451518584c35e25f5433f14d888c
 Dart SDK:	3.8.1
 Date:		2025-06-13T04:18:42.474518Z```</description><pubDate>2025-06-13T04:18:42.474518Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.32.3</link><description>*Flutter `v3.32.3` has been released*
 
-```Channel: 	stableHash:		5c1433509f997e9059d230942bdf83f1b88a179e
+```Channel: 	stable
+Hash:		5c1433509f997e9059d230942bdf83f1b88a179e
 Dart SDK:	3.8.1
 Date:		2025-06-11T23:34:11.724423Z```</description><pubDate>2025-06-11T23:34:11.724423Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.32.2</link><description>*Flutter `v3.32.2` has been released*
 
-```Channel: 	stableHash:		8defaa71a77c16e8547abdbfad2053ce3a6e2d5b
+```Channel: 	stable
+Hash:		8defaa71a77c16e8547abdbfad2053ce3a6e2d5b
 Dart SDK:	3.8.1
 Date:		2025-06-04T21:16:40.774603Z```</description><pubDate>2025-06-04T21:16:40.774603Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.32.1</link><description>*Flutter `v3.32.1` has been released*
 
-```Channel: 	stableHash:		b25305a8832cfc6ba632a7f87ad455e319dccce8
+```Channel: 	stable
+Hash:		b25305a8832cfc6ba632a7f87ad455e319dccce8
 Dart SDK:	3.8.1
 Date:		2025-05-29T23:28:28.195119Z```</description><pubDate>2025-05-29T23:28:28.195119Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.32.0</link><description>*Flutter `v3.32.0` has been released*
 
-```Channel: 	stableHash:		be698c48a6750c8cb8e61c740ca9991bb947aba2
+```Channel: 	stable
+Hash:		be698c48a6750c8cb8e61c740ca9991bb947aba2
 Dart SDK:	3.8.0
 Date:		2025-05-20T16:43:05.697501Z```</description><pubDate>2025-05-20T16:43:05.697501Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.29.3</link><description>*Flutter `v3.29.3` has been released*
 
-```Channel: 	stableHash:		ea121f8859e4b13e47a8f845e4586164519588bc
+```Channel: 	stable
+Hash:		ea121f8859e4b13e47a8f845e4586164519588bc
 Dart SDK:	3.7.2
 Date:		2025-04-14T17:25:51.061305Z```</description><pubDate>2025-04-14T17:25:51.061305Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.29.2</link><description>*Flutter `v3.29.2` has been released*
 
-```Channel: 	stableHash:		c23637390482d4cf9598c3ce3f2be31aa7332daf
+```Channel: 	stable
+Hash:		c23637390482d4cf9598c3ce3f2be31aa7332daf
 Dart SDK:	3.7.2
 Date:		2025-03-14T14:20:23.400177Z```</description><pubDate>2025-03-14T14:20:23.400177Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.29.1</link><description>*Flutter `v3.29.1` has been released*
 
-```Channel: 	stableHash:		09de023485e95e6d1225c2baa44b8feb85e0d45f
+```Channel: 	stable
+Hash:		09de023485e95e6d1225c2baa44b8feb85e0d45f
 Dart SDK:	3.7.0
 Date:		2025-03-06T18:16:11.554286Z```</description><pubDate>2025-03-06T18:16:11.554286Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.29.0</link><description>*Flutter `v3.29.0` has been released*
 
-```Channel: 	stableHash:		35c388afb57ef061d06a39b537336c87e0e3d1b1
+```Channel: 	stable
+Hash:		35c388afb57ef061d06a39b537336c87e0e3d1b1
 Dart SDK:	3.7.0
 Date:		2025-02-12T18:25:23.187075Z```</description><pubDate>2025-02-12T18:25:23.187075Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.27.4</link><description>*Flutter `v3.27.4` has been released*
 
-```Channel: 	stableHash:		d8a9f9a52e5af486f80d932e838ee93861ffd863
+```Channel: 	stable
+Hash:		d8a9f9a52e5af486f80d932e838ee93861ffd863
 Dart SDK:	3.6.2
 Date:		2025-02-05T18:22:08.251630Z```</description><pubDate>2025-02-05T18:22:08.251630Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.27.3</link><description>*Flutter `v3.27.3` has been released*
 
-```Channel: 	stableHash:		c519ee916eaeb88923e67befb89c0f1dabfa83e6
+```Channel: 	stable
+Hash:		c519ee916eaeb88923e67befb89c0f1dabfa83e6
 Dart SDK:	3.6.1
 Date:		2025-01-21T20:35:29.161615Z```</description><pubDate>2025-01-21T20:35:29.161615Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.27.2</link><description>*Flutter `v3.27.2` has been released*
 
-```Channel: 	stableHash:		68415ad1d920f6fe5ec284f5c2febf7c4dd5b0b3
+```Channel: 	stable
+Hash:		68415ad1d920f6fe5ec284f5c2febf7c4dd5b0b3
 Dart SDK:	3.6.1
 Date:		2025-01-13T22:31:44.493761Z```</description><pubDate>2025-01-13T22:31:44.493761Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.27.1</link><description>*Flutter `v3.27.1` has been released*
 
-```Channel: 	stableHash:		17025dd88227cd9532c33fa78f5250d548d87e9a
+```Channel: 	stable
+Hash:		17025dd88227cd9532c33fa78f5250d548d87e9a
 Dart SDK:	3.6.0
 Date:		2024-12-16T22:25:04.945435Z```</description><pubDate>2024-12-16T22:25:04.945435Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.27.0</link><description>*Flutter `v3.27.0` has been released*
 
-```Channel: 	stableHash:		8495dee1fd4aacbe9de707e7581203232f591b2f
+```Channel: 	stable
+Hash:		8495dee1fd4aacbe9de707e7581203232f591b2f
 Dart SDK:	3.6.0
 Date:		2024-12-11T18:44:56.075823Z```</description><pubDate>2024-12-11T18:44:56.075823Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.24.5</link><description>*Flutter `v3.24.5` has been released*
 
-```Channel: 	stableHash:		dec2ee5c1f98f8e84a7d5380c05eb8a3d0a81668
+```Channel: 	stable
+Hash:		dec2ee5c1f98f8e84a7d5380c05eb8a3d0a81668
 Dart SDK:	3.5.4
 Date:		2024-11-14T01:21:30.225253Z```</description><pubDate>2024-11-14T01:21:30.225253Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.24.4</link><description>*Flutter `v3.24.4` has been released*
 
-```Channel: 	stableHash:		603104015dd692ea3403755b55d07813d5cf8965
+```Channel: 	stable
+Hash:		603104015dd692ea3403755b55d07813d5cf8965
 Dart SDK:	3.5.4
 Date:		2024-10-24T17:37:21.071837Z```</description><pubDate>2024-10-24T17:37:21.071837Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.24.3</link><description>*Flutter `v3.24.3` has been released*
 
-```Channel: 	stableHash:		2663184aa79047d0a33a14a3b607954f8fdd8730
+```Channel: 	stable
+Hash:		2663184aa79047d0a33a14a3b607954f8fdd8730
 Dart SDK:	3.5.3
 Date:		2024-09-12T17:35:51.434414Z```</description><pubDate>2024-09-12T17:35:51.434414Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.24.2</link><description>*Flutter `v3.24.2` has been released*
 
-```Channel: 	stableHash:		4cf269e36de2573851eaef3c763994f8f9be494d
+```Channel: 	stable
+Hash:		4cf269e36de2573851eaef3c763994f8f9be494d
 Dart SDK:	3.5.2
 Date:		2024-09-04T14:40:37.174233Z```</description><pubDate>2024-09-04T14:40:37.174233Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.24.1</link><description>*Flutter `v3.24.1` has been released*
 
-```Channel: 	stableHash:		5874a72aa4c779a02553007c47dacbefba2374dc
+```Channel: 	stable
+Hash:		5874a72aa4c779a02553007c47dacbefba2374dc
 Dart SDK:	3.5.1
 Date:		2024-08-21T16:24:33.738849Z```</description><pubDate>2024-08-21T16:24:33.738849Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.24.0</link><description>*Flutter `v3.24.0` has been released*
 
-```Channel: 	stableHash:		80c2e84975bbd28ecf5f8d4bd4ca5a2490bfc819
+```Channel: 	stable
+Hash:		80c2e84975bbd28ecf5f8d4bd4ca5a2490bfc819
 Dart SDK:	3.5.0
 Date:		2024-08-06T17:48:18.363257Z```</description><pubDate>2024-08-06T17:48:18.363257Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.22.3</link><description>*Flutter `v3.22.3` has been released*
 
-```Channel: 	stableHash:		b0850beeb25f6d5b10426284f506557f66181b36
+```Channel: 	stable
+Hash:		b0850beeb25f6d5b10426284f506557f66181b36
 Dart SDK:	3.4.4
 Date:		2024-07-18T01:08:53.789813Z```</description><pubDate>2024-07-18T01:08:53.789813Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.22.2</link><description>*Flutter `v3.22.2` has been released*
 
-```Channel: 	stableHash:		761747bfc538b5af34aa0d3fac380f1bc331ec49
+```Channel: 	stable
+Hash:		761747bfc538b5af34aa0d3fac380f1bc331ec49
 Dart SDK:	3.4.3
 Date:		2024-06-06T17:06:32.518630Z```</description><pubDate>2024-06-06T17:06:32.518630Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.22.1</link><description>*Flutter `v3.22.1` has been released*
 
-```Channel: 	stableHash:		a14f74ff3a1cbd521163c5f03d68113d50af93d3
+```Channel: 	stable
+Hash:		a14f74ff3a1cbd521163c5f03d68113d50af93d3
 Dart SDK:	3.4.1
 Date:		2024-05-22T19:52:59.690978Z```</description><pubDate>2024-05-22T19:52:59.690978Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.22.0</link><description>*Flutter `v3.22.0` has been released*
 
-```Channel: 	stableHash:		5dcb86f68f239346676ceb1ed1ea385bd215fba1
+```Channel: 	stable
+Hash:		5dcb86f68f239346676ceb1ed1ea385bd215fba1
 Dart SDK:	3.4.0
 Date:		2024-05-13T20:44:28.472051Z```</description><pubDate>2024-05-13T20:44:28.472051Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.19.6</link><description>*Flutter `v3.19.6` has been released*
 
-```Channel: 	stableHash:		54e66469a933b60ddf175f858f82eaeb97e48c8d
+```Channel: 	stable
+Hash:		54e66469a933b60ddf175f858f82eaeb97e48c8d
 Dart SDK:	3.3.4
 Date:		2024-04-17T21:11:39.450983Z```</description><pubDate>2024-04-17T21:11:39.450983Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.19.5</link><description>*Flutter `v3.19.5` has been released*
 
-```Channel: 	stableHash:		300451adae589accbece3490f4396f10bdf15e6e
+```Channel: 	stable
+Hash:		300451adae589accbece3490f4396f10bdf15e6e
 Dart SDK:	3.3.3
 Date:		2024-03-28T16:19:11.263597Z```</description><pubDate>2024-03-28T16:19:11.263597Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.19.4</link><description>*Flutter `v3.19.4` has been released*
 
-```Channel: 	stableHash:		68bfaea224880b488c617afe30ab12091ea8fa4e
+```Channel: 	stable
+Hash:		68bfaea224880b488c617afe30ab12091ea8fa4e
 Dart SDK:	3.3.2
 Date:		2024-03-21T18:11:09.260649Z```</description><pubDate>2024-03-21T18:11:09.260649Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.19.3</link><description>*Flutter `v3.19.3` has been released*
 
-```Channel: 	stableHash:		ba393198430278b6595976de84fe170f553cc728
+```Channel: 	stable
+Hash:		ba393198430278b6595976de84fe170f553cc728
 Dart SDK:	3.3.1
 Date:		2024-03-08T00:20:18.160988Z```</description><pubDate>2024-03-08T00:20:18.160988Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.19.2</link><description>*Flutter `v3.19.2` has been released*
 
-```Channel: 	stableHash:		7482962148e8d758338d8a28f589f317e1e42ba4
+```Channel: 	stable
+Hash:		7482962148e8d758338d8a28f589f317e1e42ba4
 Dart SDK:	3.3.0
 Date:		2024-02-28T18:29:08.735772Z```</description><pubDate>2024-02-28T18:29:08.735772Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.19.1</link><description>*Flutter `v3.19.1` has been released*
 
-```Channel: 	stableHash:		abb292a07e20d696c4568099f918f6c5f330e6b0
+```Channel: 	stable
+Hash:		abb292a07e20d696c4568099f918f6c5f330e6b0
 Dart SDK:	3.3.0
 Date:		2024-02-21T18:35:45.886089Z```</description><pubDate>2024-02-21T18:35:45.886089Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.19.0</link><description>*Flutter `v3.19.0` has been released*
 
-```Channel: 	stableHash:		bae5e49bc2a867403c43b2aae2de8f8c33b037e4
+```Channel: 	stable
+Hash:		bae5e49bc2a867403c43b2aae2de8f8c33b037e4
 Dart SDK:	3.3.0
 Date:		2024-02-15T19:22:40.743196Z```</description><pubDate>2024-02-15T19:22:40.743196Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.16.9</link><description>*Flutter `v3.16.9` has been released*
 
-```Channel: 	stableHash:		41456452f29d64e8deb623a3c927524bcf9f111b
+```Channel: 	stable
+Hash:		41456452f29d64e8deb623a3c927524bcf9f111b
 Dart SDK:	3.2.6
 Date:		2024-01-25T20:28:43.225297Z```</description><pubDate>2024-01-25T20:28:43.225297Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.16.8</link><description>*Flutter `v3.16.8` has been released*
 
-```Channel: 	stableHash:		67457e669f79e9f8d13d7a68fe09775fefbb79f4
+```Channel: 	stable
+Hash:		67457e669f79e9f8d13d7a68fe09775fefbb79f4
 Dart SDK:	3.2.5
 Date:		2024-01-17T18:10:45.647049Z```</description><pubDate>2024-01-17T18:10:45.647049Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.16.7</link><description>*Flutter `v3.16.7` has been released*
 
-```Channel: 	stableHash:		ef1af02aead6fe2414f3aafa5a61087b610e1332
+```Channel: 	stable
+Hash:		ef1af02aead6fe2414f3aafa5a61087b610e1332
 Dart SDK:	3.2.4
 Date:		2024-01-11T22:46:20.067794Z```</description><pubDate>2024-01-11T22:46:20.067794Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.16.6</link><description>*Flutter `v3.16.6` has been released*
 
-```Channel: 	stableHash:		46787ee49c1fd80ab603f0702733edab54653aef
+```Channel: 	stable
+Hash:		46787ee49c1fd80ab603f0702733edab54653aef
 Dart SDK:	3.2.3
 Date:		2024-01-10T18:45:55.576096Z```</description><pubDate>2024-01-10T18:45:55.576096Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.16.5</link><description>*Flutter `v3.16.5` has been released*
 
-```Channel: 	stableHash:		78666c8dc57e9f7548ca9f8dd0740fbf0c658dc9
+```Channel: 	stable
+Hash:		78666c8dc57e9f7548ca9f8dd0740fbf0c658dc9
 Dart SDK:	3.2.3
 Date:		2023-12-20T19:17:41.717259Z```</description><pubDate>2023-12-20T19:17:41.717259Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.16.4</link><description>*Flutter `v3.16.4` has been released*
 
-```Channel: 	stableHash:		2e9cb0aa71a386a91f73f7088d115c0d96654829
+```Channel: 	stable
+Hash:		2e9cb0aa71a386a91f73f7088d115c0d96654829
 Dart SDK:	3.2.3
 Date:		2023-12-13T19:08:24.350992Z```</description><pubDate>2023-12-13T19:08:24.350992Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.16.3</link><description>*Flutter `v3.16.3` has been released*
 
-```Channel: 	stableHash:		b0366e0a3f089e15fd89c97604ab402fe26b724c
+```Channel: 	stable
+Hash:		b0366e0a3f089e15fd89c97604ab402fe26b724c
 Dart SDK:	3.2.3
 Date:		2023-12-06T18:02:04.383556Z```</description><pubDate>2023-12-06T18:02:04.383556Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.16.2</link><description>*Flutter `v3.16.2` has been released*
 
-```Channel: 	stableHash:		9e1c857886f07d342cf106f2cd588bcd5e031bb2
+```Channel: 	stable
+Hash:		9e1c857886f07d342cf106f2cd588bcd5e031bb2
 Dart SDK:	3.2.2
 Date:		2023-11-30T19:30:27.368924Z```</description><pubDate>2023-11-30T19:30:27.368924Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.16.1</link><description>*Flutter `v3.16.1` has been released*
 
-```Channel: 	stableHash:		7f20e5d18ce4cb80c621533090a7c5113f5bdc52
+```Channel: 	stable
+Hash:		7f20e5d18ce4cb80c621533090a7c5113f5bdc52
 Dart SDK:	3.2.1
 Date:		2023-11-27T22:32:05.344375Z```</description><pubDate>2023-11-27T22:32:05.344375Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.16.0</link><description>*Flutter `v3.16.0` has been released*
 
-```Channel: 	stableHash:		db7ef5bf9f59442b0e200a90587e8fa5e0c6336a
+```Channel: 	stable
+Hash:		db7ef5bf9f59442b0e200a90587e8fa5e0c6336a
 Dart SDK:	3.2.0
 Date:		2023-11-15T21:09:09.164233Z```</description><pubDate>2023-11-15T21:09:09.164233Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.13.9</link><description>*Flutter `v3.13.9` has been released*
 
-```Channel: 	stableHash:		d211f42860350d914a5ad8102f9ec32764dc6d06
+```Channel: 	stable
+Hash:		d211f42860350d914a5ad8102f9ec32764dc6d06
 Dart SDK:	3.1.5
 Date:		2023-10-25T22:01:05.380724Z```</description><pubDate>2023-10-25T22:01:05.380724Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.13.8</link><description>*Flutter `v3.13.8` has been released*
 
-```Channel: 	stableHash:		6c4930c4ac86fb286f30e31d0ec8bffbcbb9953e
+```Channel: 	stable
+Hash:		6c4930c4ac86fb286f30e31d0ec8bffbcbb9953e
 Dart SDK:	3.1.4
 Date:		2023-10-18T18:33:55.600560Z```</description><pubDate>2023-10-18T18:33:55.600560Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.13.7</link><description>*Flutter `v3.13.7` has been released*
 
-```Channel: 	stableHash:		2f708eb8396e362e280fac22cf171c2cb467343c
+```Channel: 	stable
+Hash:		2f708eb8396e362e280fac22cf171c2cb467343c
 Dart SDK:	3.1.3
 Date:		2023-10-11T19:45:14.137020Z```</description><pubDate>2023-10-11T19:45:14.137020Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.13.6</link><description>*Flutter `v3.13.6` has been released*
 
-```Channel: 	stableHash:		ead455963c12b453cdb2358cad34969c76daf180
+```Channel: 	stable
+Hash:		ead455963c12b453cdb2358cad34969c76daf180
 Dart SDK:	3.1.3
 Date:		2023-09-27T16:44:24.827942Z```</description><pubDate>2023-09-27T16:44:24.827942Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.13.5</link><description>*Flutter `v3.13.5` has been released*
 
-```Channel: 	stableHash:		12fccda598477eddd19f93040a1dba24f915b9be
+```Channel: 	stable
+Hash:		12fccda598477eddd19f93040a1dba24f915b9be
 Dart SDK:	3.1.2
 Date:		2023-09-20T20:05:35.409446Z```</description><pubDate>2023-09-20T20:05:35.409446Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.13.4</link><description>*Flutter `v3.13.4` has been released*
 
-```Channel: 	stableHash:		367f9ea16bfae1ca451b9cc27c1366870b187ae2
+```Channel: 	stable
+Hash:		367f9ea16bfae1ca451b9cc27c1366870b187ae2
 Dart SDK:	3.1.2
 Date:		2023-09-13T20:12:13.313067Z```</description><pubDate>2023-09-13T20:12:13.313067Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.13.3</link><description>*Flutter `v3.13.3` has been released*
 
-```Channel: 	stableHash:		b0daa737b75b007b4777e5cc2bd42b1b18a6fd4f
+```Channel: 	stable
+Hash:		b0daa737b75b007b4777e5cc2bd42b1b18a6fd4f
 Dart SDK:	3.1.1
 Date:		2023-09-13T19:53:41.927127Z```</description><pubDate>2023-09-13T19:53:41.927127Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.13.2</link><description>*Flutter `v3.13.2` has been released*
 
-```Channel: 	stableHash:		ff5b5b5fa6f35b717667719ddfdb1521d8bdd05a
+```Channel: 	stable
+Hash:		ff5b5b5fa6f35b717667719ddfdb1521d8bdd05a
 Dart SDK:	3.1.0
 Date:		2023-08-30T17:53:24.556079Z```</description><pubDate>2023-08-30T17:53:24.556079Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.13.1</link><description>*Flutter `v3.13.1` has been released*
 
-```Channel: 	stableHash:		e1e47221e86272429674bec4f1bd36acc4fc7b77
+```Channel: 	stable
+Hash:		e1e47221e86272429674bec4f1bd36acc4fc7b77
 Dart SDK:	3.1.0
 Date:		2023-08-23T18:00:11.904991Z```</description><pubDate>2023-08-23T18:00:11.904991Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.13.0</link><description>*Flutter `v3.13.0` has been released*
 
-```Channel: 	stableHash:		efbf63d9c66b9f6ec30e9ad4611189aa80003d31
+```Channel: 	stable
+Hash:		efbf63d9c66b9f6ec30e9ad4611189aa80003d31
 Dart SDK:	3.1.0
 Date:		2023-08-16T17:31:30.644124Z```</description><pubDate>2023-08-16T17:31:30.644124Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.10.6</link><description>*Flutter `v3.10.6` has been released*
 
-```Channel: 	stableHash:		f468f3366c26a5092eb964a230ce7892fda8f2f8
+```Channel: 	stable
+Hash:		f468f3366c26a5092eb964a230ce7892fda8f2f8
 Dart SDK:	3.0.6
 Date:		2023-07-13T01:11:07.927907Z```</description><pubDate>2023-07-13T01:11:07.927907Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.10.5</link><description>*Flutter `v3.10.5` has been released*
 
-```Channel: 	stableHash:		796c8ef79279f9c774545b3771238c3098dbefab
+```Channel: 	stable
+Hash:		796c8ef79279f9c774545b3771238c3098dbefab
 Dart SDK:	3.0.5
 Date:		2023-06-14T15:52:10.971872Z```</description><pubDate>2023-06-14T15:52:10.971872Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.10.4</link><description>*Flutter `v3.10.4` has been released*
 
-```Channel: 	stableHash:		682aa387cfe4fbd71ccd5418b2c2a075729a1c66
+```Channel: 	stable
+Hash:		682aa387cfe4fbd71ccd5418b2c2a075729a1c66
 Dart SDK:	3.0.3
 Date:		2023-06-07T22:42:28.059729Z```</description><pubDate>2023-06-07T22:42:28.059729Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.10.3</link><description>*Flutter `v3.10.3` has been released*
 
-```Channel: 	stableHash:		f92f44110e87bad5ff168335c36da6f6053036e6
+```Channel: 	stable
+Hash:		f92f44110e87bad5ff168335c36da6f6053036e6
 Dart SDK:	3.0.3
 Date:		2023-06-02T17:05:14.887909Z```</description><pubDate>2023-06-02T17:05:14.887909Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.10.2</link><description>*Flutter `v3.10.2` has been released*
 
-```Channel: 	stableHash:		9cd3d0d9ff05768afa249e036acc66e8abe93bff
+```Channel: 	stable
+Hash:		9cd3d0d9ff05768afa249e036acc66e8abe93bff
 Dart SDK:	3.0.2
 Date:		2023-05-24T18:49:57.763032Z```</description><pubDate>2023-05-24T18:49:57.763032Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.10.1</link><description>*Flutter `v3.10.1` has been released*
 
-```Channel: 	stableHash:		d3d8effc686d73e0114d71abdcccef63fa1f25d2
+```Channel: 	stable
+Hash:		d3d8effc686d73e0114d71abdcccef63fa1f25d2
 Dart SDK:	3.0.1
 Date:		2023-05-17T18:48:27.668845Z```</description><pubDate>2023-05-17T18:48:27.668845Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.10.0</link><description>*Flutter `v3.10.0` has been released*
 
-```Channel: 	stableHash:		84a1e904f44f9b0e9c4510138010edcc653163f8
+```Channel: 	stable
+Hash:		84a1e904f44f9b0e9c4510138010edcc653163f8
 Dart SDK:	3.0.0
 Date:		2023-05-10T16:27:18.662225Z```</description><pubDate>2023-05-10T16:27:18.662225Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.7.12</link><description>*Flutter `v3.7.12` has been released*
 
-```Channel: 	stableHash:		4d9e56e694b656610ab87fcf2efbcd226e0ed8cf
+```Channel: 	stable
+Hash:		4d9e56e694b656610ab87fcf2efbcd226e0ed8cf
 Dart SDK:	2.19.6
 Date:		2023-04-20T00:21:45.294845Z```</description><pubDate>2023-04-20T00:21:45.294845Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.7.11</link><description>*Flutter `v3.7.11` has been released*
 
-```Channel: 	stableHash:		f72efea43c3013323d1b95cff571f3c1caa37583
+```Channel: 	stable
+Hash:		f72efea43c3013323d1b95cff571f3c1caa37583
 Dart SDK:	2.19.6
 Date:		2023-04-12T17:07:01.301355Z```</description><pubDate>2023-04-12T17:07:01.301355Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.7.10</link><description>*Flutter `v3.7.10` has been released*
 
-```Channel: 	stableHash:		4b12645012342076800eb701bcdfe18f87da21cf
+```Channel: 	stable
+Hash:		4b12645012342076800eb701bcdfe18f87da21cf
 Dart SDK:	2.19.6
 Date:		2023-04-05T17:17:16.845293Z```</description><pubDate>2023-04-05T17:17:16.845293Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.7.9</link><description>*Flutter `v3.7.9` has been released*
 
-```Channel: 	stableHash:		62bd79521d8d007524e351747471ba66696fc2d4
+```Channel: 	stable
+Hash:		62bd79521d8d007524e351747471ba66696fc2d4
 Dart SDK:	2.19.6
 Date:		2023-03-30T19:49:58.794240Z```</description><pubDate>2023-03-30T19:49:58.794240Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.7.8</link><description>*Flutter `v3.7.8` has been released*
 
-```Channel: 	stableHash:		90c64ed42ba53a52d18f0cb3b17666c8662ed2a0
+```Channel: 	stable
+Hash:		90c64ed42ba53a52d18f0cb3b17666c8662ed2a0
 Dart SDK:	2.19.5
 Date:		2023-03-22T17:48:52.278904Z```</description><pubDate>2023-03-22T17:48:52.278904Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.7.7</link><description>*Flutter `v3.7.7` has been released*
 
-```Channel: 	stableHash:		2ad6cd72c040113b47ee9055e722606a490ef0da
+```Channel: 	stable
+Hash:		2ad6cd72c040113b47ee9055e722606a490ef0da
 Dart SDK:	2.19.4
 Date:		2023-03-08T20:53:23.713703Z```</description><pubDate>2023-03-08T20:53:23.713703Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.7.6</link><description>*Flutter `v3.7.6` has been released*
 
-```Channel: 	stableHash:		12cb4eb7a009f52b347b62ade7cb4854b926af72
+```Channel: 	stable
+Hash:		12cb4eb7a009f52b347b62ade7cb4854b926af72
 Dart SDK:	2.19.3
 Date:		2023-03-01T21:08:18.329454Z```</description><pubDate>2023-03-01T21:08:18.329454Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.7.5</link><description>*Flutter `v3.7.5` has been released*
 
-```Channel: 	stableHash:		c07f7888888435fd9df505aa2efc38d3cf65681b
+```Channel: 	stable
+Hash:		c07f7888888435fd9df505aa2efc38d3cf65681b
 Dart SDK:	2.19.2
 Date:		2023-02-23T04:34:22.630384Z```</description><pubDate>2023-02-23T04:34:22.630384Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.7.4</link><description>*Flutter `v3.7.4` has been released*
 
-```Channel: 	stableHash:		b4bce91dd0f168179d46a7ae5eceb3572ba9637a
+```Channel: 	stable
+Hash:		b4bce91dd0f168179d46a7ae5eceb3572ba9637a
 Dart SDK:	2.19.2
 Date:		2023-02-21T21:31:04.792661Z```</description><pubDate>2023-02-21T21:31:04.792661Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.7.3</link><description>*Flutter `v3.7.3` has been released*
 
-```Channel: 	stableHash:		9944297138845a94256f1cf37beb88ff9a8e811a
+```Channel: 	stable
+Hash:		9944297138845a94256f1cf37beb88ff9a8e811a
 Dart SDK:	2.19.2
 Date:		2023-02-09T17:02:14.171562Z```</description><pubDate>2023-02-09T17:02:14.171562Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.7.2</link><description>*Flutter `v3.7.2` has been released*
 
-```Channel: 	stableHash:		32fb2f948e9b1a2d1b876ebee3558be7f51b457f
+```Channel: 	stable
+Hash:		32fb2f948e9b1a2d1b876ebee3558be7f51b457f
 Dart SDK:	2.19.2
 Date:		2023-02-08T18:07:14.532725Z```</description><pubDate>2023-02-08T18:07:14.532725Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.7.1</link><description>*Flutter `v3.7.1` has been released*
 
-```Channel: 	stableHash:		7048ed95a5ad3e43d697e0c397464193991fc230
+```Channel: 	stable
+Hash:		7048ed95a5ad3e43d697e0c397464193991fc230
 Dart SDK:	2.19.1
 Date:		2023-02-01T21:25:02.828380Z```</description><pubDate>2023-02-01T21:25:02.828380Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.7.0</link><description>*Flutter `v3.7.0` has been released*
 
-```Channel: 	stableHash:		b06b8b2710955028a6b562f5aa6fe62941d6febf
+```Channel: 	stable
+Hash:		b06b8b2710955028a6b562f5aa6fe62941d6febf
 Dart SDK:	2.19.0
 Date:		2023-01-24T18:52:29.276391Z```</description><pubDate>2023-01-24T18:52:29.276391Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.3.10</link><description>*Flutter `v3.3.10` has been released*
 
-```Channel: 	stableHash:		135454af32477f815a7525073027a3ff9eff1bfd
+```Channel: 	stable
+Hash:		135454af32477f815a7525073027a3ff9eff1bfd
 Dart SDK:	2.18.6
 Date:		2023-01-23T19:48:31.546617Z```</description><pubDate>2023-01-23T19:48:31.546617Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.3.9</link><description>*Flutter `v3.3.9` has been released*
 
-```Channel: 	stableHash:		b8f7f1f9869bb2d116aa6a70dbeac61000b52849
+```Channel: 	stable
+Hash:		b8f7f1f9869bb2d116aa6a70dbeac61000b52849
 Dart SDK:	2.18.5
 Date:		2022-11-23T16:40:32.603420Z```</description><pubDate>2022-11-23T16:40:32.603420Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.3.8</link><description>*Flutter `v3.3.8` has been released*
 
-```Channel: 	stableHash:		52b3dc25f6471c27b2144594abb11c741cb88f57
+```Channel: 	stable
+Hash:		52b3dc25f6471c27b2144594abb11c741cb88f57
 Dart SDK:	2.18.4
 Date:		2022-11-09T18:13:11.974062Z```</description><pubDate>2022-11-09T18:13:11.974062Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.3.7</link><description>*Flutter `v3.3.7` has been released*
 
-```Channel: 	stableHash:		e99c9c7cd9f6c0b2f8ae6e3ebfd585239f5568f4
+```Channel: 	stable
+Hash:		e99c9c7cd9f6c0b2f8ae6e3ebfd585239f5568f4
 Dart SDK:	2.18.4
 Date:		2022-11-02T17:48:40.430644Z```</description><pubDate>2022-11-02T17:48:40.430644Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.3.6</link><description>*Flutter `v3.3.6` has been released*
 
-```Channel: 	stableHash:		6928314d505d2bb4777be05e45d7808a5aa91d2a
+```Channel: 	stable
+Hash:		6928314d505d2bb4777be05e45d7808a5aa91d2a
 Dart SDK:	2.18.2
 Date:		2022-10-26T16:52:00.298277Z```</description><pubDate>2022-10-26T16:52:00.298277Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.3.5</link><description>*Flutter `v3.3.5` has been released*
 
-```Channel: 	stableHash:		d9111f64021372856901a1fd5bfbc386cade3318
+```Channel: 	stable
+Hash:		d9111f64021372856901a1fd5bfbc386cade3318
 Dart SDK:	2.18.2
 Date:		2022-10-19T22:16:09.519089Z```</description><pubDate>2022-10-19T22:16:09.519089Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.3.4</link><description>*Flutter `v3.3.4` has been released*
 
-```Channel: 	stableHash:		eb6d86ee27deecba4a83536aa20f366a6044895c
+```Channel: 	stable
+Hash:		eb6d86ee27deecba4a83536aa20f366a6044895c
 Dart SDK:	2.18.2
 Date:		2022-10-05T16:48:07.889310Z```</description><pubDate>2022-10-05T16:48:07.889310Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.3.3</link><description>*Flutter `v3.3.3` has been released*
 
-```Channel: 	stableHash:		18a827f3933c19f51862dde3fa472197683249d6
+```Channel: 	stable
+Hash:		18a827f3933c19f51862dde3fa472197683249d6
 Dart SDK:	2.18.2
 Date:		2022-09-28T19:51:59.024002Z```</description><pubDate>2022-09-28T19:51:59.024002Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.3.2</link><description>*Flutter `v3.3.2` has been released*
 
-```Channel: 	stableHash:		e3c29ec00c9c825c891d75054c63fcc46454dca1
+```Channel: 	stable
+Hash:		e3c29ec00c9c825c891d75054c63fcc46454dca1
 Dart SDK:	2.18.1
 Date:		2022-09-14T15:06:55.724077Z```</description><pubDate>2022-09-14T15:06:55.724077Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.3.1</link><description>*Flutter `v3.3.1` has been released*
 
-```Channel: 	stableHash:		4f9d92fbbdf072a70a70d2179a9f87392b94104c
+```Channel: 	stable
+Hash:		4f9d92fbbdf072a70a70d2179a9f87392b94104c
 Dart SDK:	2.18.0
 Date:		2022-09-07T15:30:42.283999Z```</description><pubDate>2022-09-07T15:30:42.283999Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.3.0</link><description>*Flutter `v3.3.0` has been released*
 
-```Channel: 	stableHash:		ffccd96b62ee8cec7740dab303538c5fc26ac543
+```Channel: 	stable
+Hash:		ffccd96b62ee8cec7740dab303538c5fc26ac543
 Dart SDK:	2.18.0
 Date:		2022-08-30T17:22:12.916008Z```</description><pubDate>2022-08-30T17:22:12.916008Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.0.5</link><description>*Flutter `v3.0.5` has been released*
 
-```Channel: 	stableHash:		f1875d570e39de09040c8f79aa13cc56baab8db1
+```Channel: 	stable
+Hash:		f1875d570e39de09040c8f79aa13cc56baab8db1
 Dart SDK:	2.17.6
 Date:		2022-07-13T20:57:03.919551Z```</description><pubDate>2022-07-13T20:57:03.919551Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.0.4</link><description>*Flutter `v3.0.4` has been released*
 
-```Channel: 	stableHash:		85684f9300908116a78138ea4c6036c35c9a1236
+```Channel: 	stable
+Hash:		85684f9300908116a78138ea4c6036c35c9a1236
 Dart SDK:	2.17.5
 Date:		2022-07-01T13:45:08.754031Z```</description><pubDate>2022-07-01T13:45:08.754031Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.0.3</link><description>*Flutter `v3.0.3` has been released*
 
-```Channel: 	stableHash:		676cefaaff197f27424942307668886253e1ec35
+```Channel: 	stable
+Hash:		676cefaaff197f27424942307668886253e1ec35
 Dart SDK:	2.17.5
 Date:		2022-06-22T21:06:55.035195Z```</description><pubDate>2022-06-22T21:06:55.035195Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.0.2</link><description>*Flutter `v3.0.2` has been released*
 
-```Channel: 	stableHash:		cd41fdd495f6944ecd3506c21e94c6567b073278
+```Channel: 	stable
+Hash:		cd41fdd495f6944ecd3506c21e94c6567b073278
 Dart SDK:	2.17.3
 Date:		2022-06-10T15:16:49.981007Z```</description><pubDate>2022-06-10T15:16:49.981007Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.0.1</link><description>*Flutter `v3.0.1` has been released*
 
-```Channel: 	stableHash:		fb57da5f945d02ef4f98dfd9409a72b7cce74268
+```Channel: 	stable
+Hash:		fb57da5f945d02ef4f98dfd9409a72b7cce74268
 Dart SDK:	2.17.1
 Date:		2022-05-20T03:45:16.909313Z```</description><pubDate>2022-05-20T03:45:16.909313Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.0.0</link><description>*Flutter `v3.0.0` has been released*
 
-```Channel: 	stableHash:		ee4e09cce01d6f2d7f4baebd247fde02e5008851
+```Channel: 	stable
+Hash:		ee4e09cce01d6f2d7f4baebd247fde02e5008851
 Dart SDK:	2.17.0
 Date:		2022-05-11T18:55:24.142977Z```</description><pubDate>2022-05-11T18:55:24.142977Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-2.10.5</link><description>*Flutter `v2.10.5` has been released*
 
-```Channel: 	stableHash:		5464c5bac742001448fe4fc0597be939379f88ea
+```Channel: 	stable
+Hash:		5464c5bac742001448fe4fc0597be939379f88ea
 Dart SDK:	2.16.2
 Date:		2022-04-18T19:39:16.376216Z```</description><pubDate>2022-04-18T19:39:16.376216Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-2.10.4</link><description>*Flutter `v2.10.4` has been released*
 
-```Channel: 	stableHash:		c860cba910319332564e1e9d470a17074c1f2dfd
+```Channel: 	stable
+Hash:		c860cba910319332564e1e9d470a17074c1f2dfd
 Dart SDK:	2.16.2
 Date:		2022-03-28T16:58:30.367026Z```</description><pubDate>2022-03-28T16:58:30.367026Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-2.10.3</link><description>*Flutter `v2.10.3` has been released*
 
-```Channel: 	stableHash:		7e9793dee1b85a243edd0e06cb1658e98b077561
+```Channel: 	stable
+Hash:		7e9793dee1b85a243edd0e06cb1658e98b077561
 Dart SDK:	2.16.1
 Date:		2022-03-03T02:51:02.356833Z```</description><pubDate>2022-03-03T02:51:02.356833Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-2.10.2</link><description>*Flutter `v2.10.2` has been released*
 
-```Channel: 	stableHash:		097d3313d8e2c7f901932d63e537c1acefb87800
+```Channel: 	stable
+Hash:		097d3313d8e2c7f901932d63e537c1acefb87800
 Dart SDK:	2.16.1
 Date:		2022-02-19T04:37:38.591434Z```</description><pubDate>2022-02-19T04:37:38.591434Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-2.10.1</link><description>*Flutter `v2.10.1` has been released*
 
-```Channel: 	stableHash:		db747aa1331bd95bc9b3874c842261ca2d302cd5
+```Channel: 	stable
+Hash:		db747aa1331bd95bc9b3874c842261ca2d302cd5
 Dart SDK:	2.16.1
 Date:		2022-02-10T01:18:38.655778Z```</description><pubDate>2022-02-10T01:18:38.655778Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-2.10.0</link><description>*Flutter `v2.10.0` has been released*
 
-```Channel: 	stableHash:		5f105a6ca7a5ac7b8bc9b241f4c2d86f4188cf5c
+```Channel: 	stable
+Hash:		5f105a6ca7a5ac7b8bc9b241f4c2d86f4188cf5c
 Dart SDK:	2.16.0
 Date:		2022-02-03T16:29:13.224211Z```</description><pubDate>2022-02-03T16:29:13.224211Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-2.8.1</link><description>*Flutter `v2.8.1` has been released*
 
-```Channel: 	stableHash:		77d935af4db863f6abd0b9c31c7e6df2a13de57b
+```Channel: 	stable
+Hash:		77d935af4db863f6abd0b9c31c7e6df2a13de57b
 Dart SDK:	2.15.1
 Date:		2021-12-16T19:49:49.658346Z```</description><pubDate>2021-12-16T19:49:49.658346Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-2.8.0</link><description>*Flutter `v2.8.0` has been released*
 
-```Channel: 	stableHash:		cf4400006550b70f28e4b4af815151d1e74846c6
+```Channel: 	stable
+Hash:		cf4400006550b70f28e4b4af815151d1e74846c6
 Dart SDK:	2.15.0
 Date:		2021-12-09T01:20:18.536950Z```</description><pubDate>2021-12-09T01:20:18.536950Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-2.5.3</link><description>*Flutter `v2.5.3` has been released*
 
-```Channel: 	stableHash:		18116933e77adc82f80866c928266a5b4f1ed645
+```Channel: 	stable
+Hash:		18116933e77adc82f80866c928266a5b4f1ed645
 Dart SDK:	2.14.4
 Date:		2021-10-15T20:49:17.899307Z```</description><pubDate>2021-10-15T20:49:17.899307Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-2.5.2</link><description>*Flutter `v2.5.2` has been released*
 
-```Channel: 	stableHash:		3595343e20a61ff16d14e8ecc25f364276bb1b8b
+```Channel: 	stable
+Hash:		3595343e20a61ff16d14e8ecc25f364276bb1b8b
 Dart SDK:	2.14.3
 Date:		2021-09-30T23:48:47.983504Z```</description><pubDate>2021-09-30T23:48:47.983504Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-2.5.1</link><description>*Flutter `v2.5.1` has been released*
 
-```Channel: 	stableHash:		ffb2ecea5223acdd139a5039be2f9c796962833d
+```Channel: 	stable
+Hash:		ffb2ecea5223acdd139a5039be2f9c796962833d
 Dart SDK:	2.14.2
 Date:		2021-09-17T21:54:22.188763Z```</description><pubDate>2021-09-17T21:54:22.188763Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-2.5.0</link><description>*Flutter `v2.5.0` has been released*
 
-```Channel: 	stableHash:		4cc385b4b84ac2f816d939a49ea1f328c4e0b48e
+```Channel: 	stable
+Hash:		4cc385b4b84ac2f816d939a49ea1f328c4e0b48e
 Dart SDK:	2.14.0
 Date:		2021-09-08T15:47:00.801389Z```</description><pubDate>2021-09-08T15:47:00.801389Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-2.2.3</link><description>*Flutter `v2.2.3` has been released*
 
-```Channel: 	stableHash:		f4abaa0735eba4dfd8f33f73363911d63931fe03
+```Channel: 	stable
+Hash:		f4abaa0735eba4dfd8f33f73363911d63931fe03
 Dart SDK:	2.13.4
 Date:		2021-07-01T22:45:40.189203Z```</description><pubDate>2021-07-01T22:45:40.189203Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-2.2.2</link><description>*Flutter `v2.2.2` has been released*
 
-```Channel: 	stableHash:		d79295af24c3ed621c33713ecda14ad196fd9c31
+```Channel: 	stable
+Hash:		d79295af24c3ed621c33713ecda14ad196fd9c31
 Dart SDK:	2.13.3
 Date:		2021-06-11T18:59:42.020688Z```</description><pubDate>2021-06-11T18:59:42.020688Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-2.2.1</link><description>*Flutter `v2.2.1` has been released*
 
-```Channel: 	stableHash:		02c026b03cd31dd3f867e5faeb7e104cce174c5f
+```Channel: 	stable
+Hash:		02c026b03cd31dd3f867e5faeb7e104cce174c5f
 Dart SDK:	2.13.1
 Date:		2021-05-27T23:12:48.651764Z```</description><pubDate>2021-05-27T23:12:48.651764Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-2.2.0</link><description>*Flutter `v2.2.0` has been released*
 
-```Channel: 	stableHash:		b22742018b3edf16c6cadd7b76d9db5e7f9064b5
+```Channel: 	stable
+Hash:		b22742018b3edf16c6cadd7b76d9db5e7f9064b5
 Dart SDK:	2.13.0
 Date:		2021-05-18T19:17:17.138745Z```</description><pubDate>2021-05-18T19:17:17.138745Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-2.0.6</link><description>*Flutter `v2.0.6` has been released*
 
-```Channel: 	stableHash:		1d9032c7e1d867f071f2277eb1673e8f9b0274e3
+```Channel: 	stable
+Hash:		1d9032c7e1d867f071f2277eb1673e8f9b0274e3
 Dart SDK:	2.12.3
 Date:		2021-04-30T18:55:55.681560Z```</description><pubDate>2021-04-30T18:55:55.681560Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-2.0.5</link><description>*Flutter `v2.0.5` has been released*
 
-```Channel: 	stableHash:		adc687823a831bbebe28bdccfac1a628ca621513
+```Channel: 	stable
+Hash:		adc687823a831bbebe28bdccfac1a628ca621513
 Dart SDK:	2.12.3
 Date:		2021-04-16T18:02:50.882857Z```</description><pubDate>2021-04-16T18:02:50.882857Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-2.0.4</link><description>*Flutter `v2.0.4` has been released*
 
-```Channel: 	stableHash:		b1395592de68cc8ac4522094ae59956dd21a91db
+```Channel: 	stable
+Hash:		b1395592de68cc8ac4522094ae59956dd21a91db
 Dart SDK:	2.12.2
 Date:		2021-04-02T20:38:34.337921Z```</description><pubDate>2021-04-02T20:38:34.337921Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-2.0.3</link><description>*Flutter `v2.0.3` has been released*
 
-```Channel: 	stableHash:		4d7946a68d26794349189cf21b3f68cc6fe61dcb
+```Channel: 	stable
+Hash:		4d7946a68d26794349189cf21b3f68cc6fe61dcb
 Dart SDK:	2.12.2
 Date:		2021-03-19T20:20:00.679525Z```</description><pubDate>2021-03-19T20:20:00.679525Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-2.0.2</link><description>*Flutter `v2.0.2` has been released*
 
-```Channel: 	stableHash:		8962f6dc68ec8e2206ac2fa874da4a453856c7d3
+```Channel: 	stable
+Hash:		8962f6dc68ec8e2206ac2fa874da4a453856c7d3
 Dart SDK:	2.12.1
 Date:		2021-03-12T20:19:40.351677Z```</description><pubDate>2021-03-12T20:19:40.351677Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-2.0.1</link><description>*Flutter `v2.0.1` has been released*
 
-```Channel: 	stableHash:		c5a4b4029c0798f37c4a39b479d7cb75daa7b05c
+```Channel: 	stable
+Hash:		c5a4b4029c0798f37c4a39b479d7cb75daa7b05c
 Dart SDK:	2.12.0
 Date:		2021-03-04T19:56:41.907628Z```</description><pubDate>2021-03-04T19:56:41.907628Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-2.0.0</link><description>*Flutter `v2.0.0` has been released*
 
-```Channel: 	stableHash:		60bd88df915880d23877bfc1602e8ddcf4c4dd2a
+```Channel: 	stable
+Hash:		60bd88df915880d23877bfc1602e8ddcf4c4dd2a
 Dart SDK:	2.12.0
 Date:		2021-03-03T17:53:29.475945Z```</description><pubDate>2021-03-03T17:53:29.475945Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-1.22.6</link><description>*Flutter `v1.22.6` has been released*
 
-```Channel: 	stableHash:		9b2d32b605630f28625709ebd9d78ab3016b2bf6
+```Channel: 	stable
+Hash:		9b2d32b605630f28625709ebd9d78ab3016b2bf6
 Dart SDK:	undefined
 Date:		2021-01-25T19:47:03.570647Z```</description><pubDate>2021-01-25T19:47:03.570647Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-1.22.5</link><description>*Flutter `v1.22.5` has been released*
 
-```Channel: 	stableHash:		78910062997c3a836feee883712c241a5fd22983
+```Channel: 	stable
+Hash:		78910062997c3a836feee883712c241a5fd22983
 Dart SDK:	undefined
 Date:		2020-12-10T22:57:36.709896Z```</description><pubDate>2020-12-10T22:57:36.709896Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-1.22.4</link><description>*Flutter `v1.22.4` has been released*
 
-```Channel: 	stableHash:		1aafb3a8b9b0c36241c5f5b34ee914770f015818
+```Channel: 	stable
+Hash:		1aafb3a8b9b0c36241c5f5b34ee914770f015818
 Dart SDK:	2.10.4
 Date:		2020-11-13T20:11:42.086473Z```</description><pubDate>2020-11-13T20:11:42.086473Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-1.22.3</link><description>*Flutter `v1.22.3` has been released*
 
-```Channel: 	stableHash:		8874f21e79d7ec66d0457c7ab338348e31b17f1d
+```Channel: 	stable
+Hash:		8874f21e79d7ec66d0457c7ab338348e31b17f1d
 Dart SDK:	2.10.3
 Date:		2020-10-30T16:35:53.176150Z```</description><pubDate>2020-10-30T16:35:53.176150Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-1.22.2</link><description>*Flutter `v1.22.2` has been released*
 
-```Channel: 	stableHash:		84f3d28555368a70270e9ac8390a9441df95e752
+```Channel: 	stable
+Hash:		84f3d28555368a70270e9ac8390a9441df95e752
 Dart SDK:	2.10.2
 Date:		2020-10-16T18:22:30.509912Z```</description><pubDate>2020-10-16T18:22:30.509912Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-1.22.1</link><description>*Flutter `v1.22.1` has been released*
 
-```Channel: 	stableHash:		f30b7f4db93ee747cd727df747941a28ead25ff5
+```Channel: 	stable
+Hash:		f30b7f4db93ee747cd727df747941a28ead25ff5
 Dart SDK:	2.10.1
 Date:		2020-10-08T22:00:09.613324Z```</description><pubDate>2020-10-08T22:00:09.613324Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-1.22.0</link><description>*Flutter `v1.22.0` has been released*
 
-```Channel: 	stableHash:		d408d302e22179d598f467e11da5dd968dbdc9ec
+```Channel: 	stable
+Hash:		d408d302e22179d598f467e11da5dd968dbdc9ec
 Dart SDK:	2.10.0
 Date:		2020-10-01T14:34:00.881067Z```</description><pubDate>2020-10-01T14:34:00.881067Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-1.20.4</link><description>*Flutter `v1.20.4` has been released*
 
-```Channel: 	stableHash:		fba99f6cf9a14512e461e3122c8ddfaa25394e89
+```Channel: 	stable
+Hash:		fba99f6cf9a14512e461e3122c8ddfaa25394e89
 Dart SDK:	2.9.2
 Date:		2020-09-15T17:49:01.042713Z```</description><pubDate>2020-09-15T17:49:01.042713Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-1.20.3</link><description>*Flutter `v1.20.3` has been released*
 
-```Channel: 	stableHash:		216dee60c0cc9449f0b29bcf922974d612263e24
+```Channel: 	stable
+Hash:		216dee60c0cc9449f0b29bcf922974d612263e24
 Dart SDK:	2.9.2
 Date:		2020-09-02T18:06:30.513925Z```</description><pubDate>2020-09-02T18:06:30.513925Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-1.20.2</link><description>*Flutter `v1.20.2` has been released*
 
-```Channel: 	stableHash:		bbfbf1770cca2da7c82e887e4e4af910034800b6
+```Channel: 	stable
+Hash:		bbfbf1770cca2da7c82e887e4e4af910034800b6
 Dart SDK:	2.9.1
 Date:		2020-08-13T21:49:57.376494Z```</description><pubDate>2020-08-13T21:49:57.376494Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-1.20.1</link><description>*Flutter `v1.20.1` has been released*
 
-```Channel: 	stableHash:		2ae34518b87dd891355ed6c6ea8cb68c4d52bb9d
+```Channel: 	stable
+Hash:		2ae34518b87dd891355ed6c6ea8cb68c4d52bb9d
 Dart SDK:	2.9.0
 Date:		2020-08-06T17:51:18.839916Z```</description><pubDate>2020-08-06T17:51:18.839916Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-1.20.0</link><description>*Flutter `v1.20.0` has been released*
 
-```Channel: 	stableHash:		840c9205b344a59e48a5926ee2d791cc5640924c
+```Channel: 	stable
+Hash:		840c9205b344a59e48a5926ee2d791cc5640924c
 Dart SDK:	2.9.0
 Date:		2020-08-05T14:29:36.789739Z```</description><pubDate>2020-08-05T14:29:36.789739Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-1.17.5</link><description>*Flutter `v1.17.5` has been released*
 
-```Channel: 	stableHash:		8af6b2f038c1172e61d418869363a28dffec3cb4
+```Channel: 	stable
+Hash:		8af6b2f038c1172e61d418869363a28dffec3cb4
 Dart SDK:	undefined
 Date:		2020-07-01T23:24:33.419295Z```</description><pubDate>2020-07-01T23:24:33.419295Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-1.17.4</link><description>*Flutter `v1.17.4` has been released*
 
-```Channel: 	stableHash:		1ad9baa8b99a2897c20f9e6e54d3b9b359ade314
+```Channel: 	stable
+Hash:		1ad9baa8b99a2897c20f9e6e54d3b9b359ade314
 Dart SDK:	undefined
 Date:		2020-06-18T16:04:42.724586Z```</description><pubDate>2020-06-18T16:04:42.724586Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-1.17.3</link><description>*Flutter `v1.17.3` has been released*
 
-```Channel: 	stableHash:		b041144f833e05cf463b8887fa12efdec9493488
+```Channel: 	stable
+Hash:		b041144f833e05cf463b8887fa12efdec9493488
 Dart SDK:	undefined
 Date:		2020-06-04T17:15:43.744344Z```</description><pubDate>2020-06-04T17:15:43.744344Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-1.17.2</link><description>*Flutter `v1.17.2` has been released*
 
-```Channel: 	stableHash:		5f21edf8b66e31a39133177319414395cc5b5f48
+```Channel: 	stable
+Hash:		5f21edf8b66e31a39133177319414395cc5b5f48
 Dart SDK:	undefined
 Date:		2020-05-28T21:45:26.846070Z```</description><pubDate>2020-05-28T21:45:26.846070Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-1.17.1</link><description>*Flutter `v1.17.1` has been released*
 
-```Channel: 	stableHash:		f7a6a7906be96d2288f5d63a5a54c515a6e987fe
+```Channel: 	stable
+Hash:		f7a6a7906be96d2288f5d63a5a54c515a6e987fe
 Dart SDK:	undefined
 Date:		2020-05-13T18:12:10.369553Z```</description><pubDate>2020-05-13T18:12:10.369553Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-1.17.0</link><description>*Flutter `v1.17.0` has been released*
 
-```Channel: 	stableHash:		e6b34c2b5c96bb95325269a29a84e83ed8909b5f
+```Channel: 	stable
+Hash:		e6b34c2b5c96bb95325269a29a84e83ed8909b5f
 Dart SDK:	undefined
 Date:		2020-05-06T14:34:15.140240Z```</description><pubDate>2020-05-06T14:34:15.140240Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-v1.12.13+hotfix.9</link><description>*Flutter `vv1.12.13+hotfix.9` has been released*
 
-```Channel: 	stableHash:		f139b11009aeb8ed2a3a3aa8b0066e482709dde3
+```Channel: 	stable
+Hash:		f139b11009aeb8ed2a3a3aa8b0066e482709dde3
 Dart SDK:	undefined
 Date:		2020-04-17T21:40:00.498256Z```</description><pubDate>2020-04-17T21:40:00.498256Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-v1.12.13+hotfix.8</link><description>*Flutter `vv1.12.13+hotfix.8` has been released*
 
-```Channel: 	stableHash:		0b8abb4724aa590dd0f429683339b1e045a1594d
+```Channel: 	stable
+Hash:		0b8abb4724aa590dd0f429683339b1e045a1594d
 Dart SDK:	undefined
 Date:		2020-02-11T22:00:18.927951Z```</description><pubDate>2020-02-11T22:00:18.927951Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-v1.12.13+hotfix.7</link><description>*Flutter `vv1.12.13+hotfix.7` has been released*
 
-```Channel: 	stableHash:		9f5ff2306bb3e30b2b98eee79cd231b1336f41f4
+```Channel: 	stable
+Hash:		9f5ff2306bb3e30b2b98eee79cd231b1336f41f4
 Dart SDK:	undefined
 Date:		2020-01-27T16:03:26.295545Z```</description><pubDate>2020-01-27T16:03:26.295545Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-v1.12.13+hotfix.5</link><description>*Flutter `vv1.12.13+hotfix.5` has been released*
 
-```Channel: 	stableHash:		27321ebbad34b0a3fafe99fac037102196d655ff
+```Channel: 	stable
+Hash:		27321ebbad34b0a3fafe99fac037102196d655ff
 Dart SDK:	undefined
 Date:		2019-12-11T15:48:44.133001Z```</description><pubDate>2019-12-11T15:48:44.133001Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-v1.9.1+hotfix.6</link><description>*Flutter `vv1.9.1+hotfix.6` has been released*
 
-```Channel: 	stableHash:		68587a0916366e9512a78df22c44163d041dd5f3
+```Channel: 	stable
+Hash:		68587a0916366e9512a78df22c44163d041dd5f3
 Dart SDK:	undefined
 Date:		2019-10-23T23:26:25.450309Z```</description><pubDate>2019-10-23T23:26:25.450309Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-v1.9.1+hotfix.5</link><description>*Flutter `vv1.9.1+hotfix.5` has been released*
 
-```Channel: 	stableHash:		1aedbb1835bd6eb44550293d57d4d124f19901f0
+```Channel: 	stable
+Hash:		1aedbb1835bd6eb44550293d57d4d124f19901f0
 Dart SDK:	undefined
 Date:		2019-10-17T17:17:25.252240Z```</description><pubDate>2019-10-17T17:17:25.252240Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-v1.9.1+hotfix.4</link><description>*Flutter `vv1.9.1+hotfix.4` has been released*
 
-```Channel: 	stableHash:		cc949a8e8b9cf394b9290a8e80f87af3e207dce5
+```Channel: 	stable
+Hash:		cc949a8e8b9cf394b9290a8e80f87af3e207dce5
 Dart SDK:	undefined
 Date:		2019-10-01T16:21:16.408035Z```</description><pubDate>2019-10-01T16:21:16.408035Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-v1.9.1+hotfix.2</link><description>*Flutter `vv1.9.1+hotfix.2` has been released*
 
-```Channel: 	stableHash:		2d2a1ffec95cc70a3218872a2cd3f8de4933c42f
+```Channel: 	stable
+Hash:		2d2a1ffec95cc70a3218872a2cd3f8de4933c42f
 Dart SDK:	undefined
 Date:		2019-09-10T02:24:14.047622Z```</description><pubDate>2019-09-10T02:24:14.047622Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-v1.7.8+hotfix.4</link><description>*Flutter `vv1.7.8+hotfix.4` has been released*
 
-```Channel: 	stableHash:		20e59316b8b8474554b38493b8ca888794b0234a
+```Channel: 	stable
+Hash:		20e59316b8b8474554b38493b8ca888794b0234a
 Dart SDK:	undefined
 Date:		2019-07-24T16:14:50.488967Z```</description><pubDate>2019-07-24T16:14:50.488967Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-v1.7.8+hotfix.3</link><description>*Flutter `vv1.7.8+hotfix.3` has been released*
 
-```Channel: 	stableHash:		b712a172f9694745f50505c93340883493b505e5
+```Channel: 	stable
+Hash:		b712a172f9694745f50505c93340883493b505e5
 Dart SDK:	undefined
 Date:		2019-07-09T21:26:14.141143Z```</description><pubDate>2019-07-09T21:26:14.141143Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-v1.7.8+hotfix.2</link><description>*Flutter `vv1.7.8+hotfix.2` has been released*
 
-```Channel: 	stableHash:		2e540931f73593e35627592ca4f9a4ca3035ed31
+```Channel: 	stable
+Hash:		2e540931f73593e35627592ca4f9a4ca3035ed31
 Dart SDK:	undefined
 Date:		2019-07-08T17:22:05.600230Z```</description><pubDate>2019-07-08T17:22:05.600230Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-v1.5.4-hotfix.2</link><description>*Flutter `vv1.5.4-hotfix.2` has been released*
 
-```Channel: 	stableHash:		7a4c33425ddd78c54aba07d86f3f9a4a0051769b
+```Channel: 	stable
+Hash:		7a4c33425ddd78c54aba07d86f3f9a4a0051769b
 Dart SDK:	undefined
 Date:		2019-05-07T18:44:16.075690Z```</description><pubDate>2019-05-07T18:44:16.075690Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-v1.2.1</link><description>*Flutter `vv1.2.1` has been released*
 
-```Channel: 	stableHash:		8661d8aecd626f7f57ccbcb735553edc05a2e713
+```Channel: 	stable
+Hash:		8661d8aecd626f7f57ccbcb735553edc05a2e713
 Dart SDK:	undefined
 Date:		2019-02-26T17:24:44.521898Z```</description><pubDate>2019-02-26T17:24:44.521898Z</pubDate></item><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-v1.0.0</link><description>*Flutter `vv1.0.0` has been released*
 
-```Channel: 	stableHash:		5391447fae6209bb21a89e6a5a6583cac1af9b4b
+```Channel: 	stable
+Hash:		5391447fae6209bb21a89e6a5a6583cac1af9b4b
 Dart SDK:	undefined
 Date:		2018-12-04T17:38:52.282873Z```</description><pubDate>2018-12-04T17:38:52.282873Z</pubDate></item></channel></rss>
