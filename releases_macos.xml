@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Flutter releases for macos</title><link>https://docs.flutter.dev/release/release-notes</link><description></description><lastBuildDate>2026-08-12T01:24:46.301Z</lastBuildDate><item><description>*Flutter `v3.44.9` has been released*
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Flutter releases for macos</title><link>https://docs.flutter.dev/release/release-notes</link><description></description><lastBuildDate>2026-08-13T01:26:36.640Z</lastBuildDate><item><title>Release Notes</title><link>https://docs.flutter.dev/release/release-notes/release-notes-3.47.0</link><description>*Flutter `v3.47.0` has been released*
+
+```Channel: 	stable
+Hash:		4cf24164269a5ebf0c16a028a00727d0e77bbb05
+Dart SDK:	3.13.0
+Date:		2026-08-12T18:44:35.841060Z```</description><pubDate>2026-08-12T18:44:35.841060Z</pubDate></item><item><description>*Flutter `v3.44.9` has been released*
 
 ```Channel: 	stable
 Hash:		6b182d2c7585eba26d4edce0f97630effd256c33
