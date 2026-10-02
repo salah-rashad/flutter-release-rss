@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Flutter releases for windows</title><link>https://docs.flutter.dev/release/release-notes</link><description></description><lastBuildDate>2026-10-01T03:44:05.173Z</lastBuildDate><item><description>*Flutter `v3.47.5` has been released*
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Flutter releases for windows</title><link>https://docs.flutter.dev/release/release-notes</link><description></description><lastBuildDate>2026-10-02T03:43:07.486Z</lastBuildDate><item><description>*Flutter `v3.47.6` has been released*
+
+```Channel: 	stable
+Hash:		5fc346839b5d0eef006ed8404392afb4dfae428d
+Dart SDK:	3.13.5
+Date:		2026-10-01T19:02:49.167367Z```</description><pubDate>2026-10-01T19:02:49.167367Z</pubDate></item><item><description>*Flutter `v3.47.5` has been released*
 
 ```Channel: 	stable
 Hash:		6a19cca56475dbfba1478ee68d7bd0c2ef891da1
