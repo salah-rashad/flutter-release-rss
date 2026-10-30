@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Flutter releases for linux</title><link>https://docs.flutter.dev/release/release-notes</link><description></description><lastBuildDate>2026-10-29T04:00:15.762Z</lastBuildDate><item><description>*Flutter `v3.47.8` has been released*
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Flutter releases for linux</title><link>https://docs.flutter.dev/release/release-notes</link><description></description><lastBuildDate>2026-10-30T04:01:49.641Z</lastBuildDate><item><description>*Flutter `v3.47.9` has been released*
+
+```Channel: 	stable
+Hash:		c197ca5199e9ee5661e865596c9c07294dfab51c
+Dart SDK:	3.13.7
+Date:		2026-10-29T19:22:44.517205Z```</description><pubDate>2026-10-29T19:22:44.517205Z</pubDate></item><item><description>*Flutter `v3.47.8` has been released*
 
 ```Channel: 	stable
 Hash:		737ba8f885dc774b53b442759999a312c9461e4e
